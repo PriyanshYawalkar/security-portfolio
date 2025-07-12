@@ -28,6 +28,9 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <footer className="fixed bottom-0 left-0 w-full text-center text-xs text-gray-400 py-2 bg-transparent z-50 italic">
+          © {new Date().getFullYear()} Priyansh Yawalkar.
+        </footer>
       </body>
     </html>
   );
