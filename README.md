@@ -13,9 +13,5 @@ A hacker-themed, interactive portfolio for Priyansh Yawalkar. This project showc
 
 ## Credits
 
-- **Portfolio by:** Priyansh Yawalkar
+- **Portfolio by:** Priyansh Y.
 - **Built with:** Next.js, Tailwind CSS
-
-## License
-
-This project is for personal portfolio use. Feel free to fork and adapt for your own hacker-themed portfolio!
