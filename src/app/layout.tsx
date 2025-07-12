@@ -29,7 +29,7 @@ export default function RootLayout({
       >
         {children}
         <footer className="fixed bottom-0 left-0 w-full text-center text-xs text-gray-400 py-2 bg-transparent z-50 italic">
-          © {new Date().getFullYear()} Priyansh Yawalkar.
+          © {new Date().getFullYear()} Priyansh Y.
         </footer>
       </body>
     </html>
